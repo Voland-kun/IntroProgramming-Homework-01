@@ -4,6 +4,7 @@ if (userNumber == 1)
 {
     Console.WriteLine("Нет чисел");
 }
+/* кусок для отрицательных чисел
 else if (userNumber < 1)
 {
     int count = 0;
@@ -13,6 +14,7 @@ else if (userNumber < 1)
         count = count - 2;
     }
 }
+*/
 else
 {
     int count = 2;
